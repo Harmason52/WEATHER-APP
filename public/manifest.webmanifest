@@ -1,0 +1,15 @@
+{
+  "name": "WeatherVerse",
+  "short_name": "WeatherVerse",
+  "description": "Lifestyle intelligence powered by weather.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#05060f",
+  "background_color": "#05060f",
+  "orientation": "any",
+  "icons": [
+    { "src": "/icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any maskable" }
+  ],
+  "categories": ["weather", "lifestyle", "productivity"]
+}
